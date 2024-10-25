@@ -1,0 +1,6 @@
+this package is not part of main application this is just for learning purpose
+so here domain have 2 different Worker class Implementation
+which i talked about read me Learning section.
+to use different worker just add Worker class <WorkRequest> and also add ScreenLogView() composable into
+MainActivity
+thank you!!
